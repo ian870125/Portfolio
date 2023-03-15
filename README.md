@@ -1,3 +1,5 @@
-# portfolio
-這是我所做的一些作品。<P>
-裡面有我對各式各樣的資料所做的分析。
+# Portfolio
+Introduction to My portfolio<P>
+These portfolio contains a variety of analyses related to games, business, stock, and data. The game analysis section includes reports and studies on various aspects of games, such as game mechanics, player behavior, and market trends. These insights can be useful for game developers and publishers looking to improve their games and better understand their target audience.<p>
+The stock prediction is a deep learning-based stock market prediction system that uses historical stock prices and fundamental stcok imforamtion to forecast future stock prices. The system utilizes a Long Short-Term Memory (LSTM) neural network, a type of recurrent neural network that can handle sequential data, to learn patterns and trends in historical stock prices.<p>
+The bussiness aims to help Soft-World International Corporation make informed decisions about their games and the marke. The project collects and analyzes data from a variety of sources, including player behavior and market trends. The data is then processed and visualized to provide insights and recommendations for game developers and publishers.
